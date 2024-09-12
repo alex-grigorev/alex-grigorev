@@ -16,4 +16,9 @@
 ![](https://camo.githubusercontent.com/a86faa225c4232bae3ec6d1f22902b00591ac5bceb4b6bace5fb79ddf941d8fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)
 ![](https://camo.githubusercontent.com/6d4beeafe3e21059548fd54b5ab22987b6d816320492c70b3442e8c2ffbebc41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465725f4e6f7465626f6f6b2d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572)
 
+![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)
+
+![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+
 

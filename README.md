@@ -1,6 +1,6 @@
 # Привет, я Саша 👋
 <picture>
-<img align="right" src="https://i.imgflip.com/1iud7b.jpg" width="265" height="200">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxza2VndmVqczh5MDJwcTV5NjY0YmV1MG9pNXo1bDB2enp0bmcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VHI6svvhu5xuqzyAoM/giphy.gif" width="200" height="200">
 </picture>
 
 Дата-аналитик с экономическим образованием.
